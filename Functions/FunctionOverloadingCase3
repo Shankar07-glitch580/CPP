@@ -1,0 +1,9 @@
+#include<iostream>
+using namespace std;
+void fun(char x ){
+    cout<<"hi"<<endl;
+}
+int main(){
+    fun(65);
+    
+}

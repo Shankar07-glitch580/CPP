@@ -1,0 +1,15 @@
+#include<iostream>
+using namespace std;
+void fun(char x ){
+    cout<<"hi"<<endl;
+}
+void fun(int x){
+    cout<<"Good Morning"<<endl;
+}
+void fun(double x){
+    cout<<"kya haal hai<<endl";
+}
+int main(){
+    fun(5.78);
+    
+}
